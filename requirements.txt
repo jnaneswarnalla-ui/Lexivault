@@ -7,3 +7,5 @@ rank_bm25
 tavily-python
 google-genai
 numpy
+pymupdf
+langchain-text-splitters
